@@ -4,6 +4,9 @@ Satellite-tune contains simple Ansible playbooks that can be used to perform any
 ##Reference performance brief Article: 
 * satellite 6.1: https://access.redhat.com/articles/2356131
 * satellite 6.2: https://access.redhat.com/articles/2626101
+* satellite 6.3: https://access.redhat.com/documentation/en-us/red_hat_satellite/6.3/html/tuning_red_hat_satellite/index
+* satellite 6.4: https://access.redhat.com/solutions/4009671
+* satellite 6.5: https://access.redhat.com/solutions/4224211
 
 ## Getting Started
 Ideally, you need two hosts to run this project:
