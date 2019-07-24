@@ -1,0 +1,14 @@
+[satellite6]
+satellite.example.com
+
+[capsules]
+capsule1.example.com
+capsule2.example.com
+-
+-
+-
+capsule.example.com
+
+[all:vars]
+ansible_ssh_pass=password
+
